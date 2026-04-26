@@ -57480,7 +57480,7 @@ s=p}for(;;)switch(s){case 0:s=3
 return A.q(A.w8(c),$async$hK)
 case 3:if(!f){q=null
 s=1
-break}m="http://localhost:8000/api/"+b
+break}m="https://api.ecoclearsolutions.net/api/"+b
 A.df("\ud83d\udfe2 GET \u2192 "+A.k(m))
 p=5
 s=8
@@ -57515,7 +57515,7 @@ s=p}for(;;)switch(s){case 0:s=3
 return A.q(A.w8(c),$async$qY)
 case 3:if(!f){q=null
 s=1
-break}m="http://localhost:8000/api/"+a
+break}m="https://api.ecoclearsolutions.net/api/"+a
 A.df("\ud83d\udfe2 POST \u2192 "+A.k(m))
 A.df("\ud83d\udce6 Body: "+B.cC.wz(b,null))
 p=5
@@ -57552,7 +57552,7 @@ s=p}for(;;)switch(s){case 0:s=3
 return A.q(A.w8(d),$async$Ck)
 case 3:if(!a0){q=null
 s=1
-break}m="http://localhost:8000/api/"+b
+break}m="https://api.ecoclearsolutions.net/api/"+b
 A.df("\ud83d\udfe2 PUT \u2192 "+A.k(m))
 A.df("\ud83d\udce6 Body: "+B.cC.wz(c,null))
 p=5
@@ -57603,7 +57603,7 @@ s=p}for(;;)switch(s){case 0:s=3
 return A.q(A.w8(b5),$async$r0)
 case 3:if(!c1){q=null
 s=1
-break}m=A.eK("http://localhost:8000/api/"+b4)
+break}m=A.eK("https://api.ecoclearsolutions.net/api/"+b4)
 A.df("\ud83d\udfe2 MULTIPART PUT \u2192 "+A.k(m))
 A.df("\ud83d\udce6 Fields: "+b6.j(0))
 A.df("\ud83d\udd11 File Key: "+b8)
